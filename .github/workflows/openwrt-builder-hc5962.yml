@@ -27,7 +27,7 @@ permissions:
   contents: read
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/akihara-sam/lede
   REPO_BRANCH: master 
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: hc5962.config
