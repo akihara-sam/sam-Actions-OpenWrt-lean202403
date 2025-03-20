@@ -21,5 +21,5 @@ echo 'src-git passwall_pk https://github.com/xiaorouji/openwrt-passwall-packages
 echo 'src-git passwall_app https://github.com/xiaorouji/openwrt-passwall.git' >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld.git' >>feeds.conf.default
 echo 'src-git poweroff https://github.com/akihara-sam/luci-app-poweroff.git' >>feeds.conf.default
-echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
+#echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
